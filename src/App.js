@@ -1,7 +1,7 @@
 import Page404 from "./pages/Page404"
-import Users from "./pages/Users"
-import Form from "./pages/Form"
-import UserDetails from "./pages/UserDetails"
+import Form from "./pages/form"
+import UserDetails from "./pages/userdetails"
+import Users from "./pages/users"
 import { Route, Switch } from "react-router-dom"
 
 function App() {
